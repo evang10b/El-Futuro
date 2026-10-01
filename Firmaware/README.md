@@ -1,1 +1,2 @@
-i am as confused as you
+# NOTE – Please read if you're confused
+Sorry for the typo in the folder. Idk what happened. Anyways this is the firmware. It may be confusing and honestly I get that. I made this 2 weeks ago and left it so now only God knows what it means. I was on a roll then. I did an entire course and a lot of researching (and copy pasting from the internet – ONLY A FEW THINGS A PROMISE atleast its not AI) I didnt knw a lot of C++ then noe am i sure this works. It's only a draft till I get the actual board to test it.
