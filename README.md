@@ -21,14 +21,15 @@ A alarm clock that is powered by the XIAO ESP32 module, and a display– 2.25inc
 <img width="787" height="543" alt="Screenshot 2026-10-01 at 21 24 33" src="https://github.com/user-attachments/assets/05badbab-cfed-4ec9-be2d-c248b3cdd2fb" />
 
 # BOM
-Seeed XIAO ESP32C3 -1
-MX-Style Keyboard Switches -4
-2.25in TFT Screen -1
-3.3V Piezo Buzzer -1
-White Blank DSA Keycaps -1
-2.54mm 8 Pin Male Header -1
-20cm Female-Female Jumper Wires -8
-M3x5x4 Heatset Inserts -8
-M3x8mm Screws -4
-M3x16mm Screws -4
+* 4x Cherry MX switches
+* 4x DSA keycaps
+* 1x Seeed XIAO ESP32C3
+* 1x 2.25in TFT Screen
+* 1x 3.3V Piezo Buzzer
+* 1x 2.54mm 8 Pin Male Header
+* 8x 20cm Female-Female Jumper Wires
+* 8x M3x5x4 Heatset Inserts
+* 4x M3x8mm Screws
+* 4x M3x16mm Screws
+* 1x 3D-printed case
 
